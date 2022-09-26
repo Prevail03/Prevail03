@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prevail03
 - 👀 I’m interested in  Web Development
-- 🌱 I’m currently learning Bachelors IN Bussiness Information Technology
+- 🌱 I’m currently learning Bachelors in Bussiness Information Technology
 - 💞️ I’m looking to collaborate on web dev projects php based
 - 📫 How to reach me prevamu03@gmail.com
 
